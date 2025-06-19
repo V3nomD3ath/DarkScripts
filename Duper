@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://www.ghostbin.cloud/1k7qx/raw", true))()
+loadstring(game:HttpGet("http://vpaste.net/yNI7J", true))()
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local ReplicatedFirst = game:GetService("ReplicatedFirst")
